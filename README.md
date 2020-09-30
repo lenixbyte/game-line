@@ -1,2 +1,2 @@
 # game-line
-canavas backgrounds GAMECODES
+canavas backgrounds EFFECT
